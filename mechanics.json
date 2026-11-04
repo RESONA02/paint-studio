@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "values": [
+    {"name": "canvas width", "group": "canvas", "value": 1200, "unit": "px", "estimated": true},
+    {"name": "canvas height", "group": "canvas", "value": 900, "unit": "px", "estimated": true},
+    {"name": "brush size", "group": "brush", "value": 12, "unit": "px", "estimated": true},
+    {"name": "pen tool", "group": "tools", "value": true, "estimated": true},
+    {"name": "pencil tool", "group": "tools", "value": true, "estimated": true},
+    {"name": "eraser tool", "group": "tools", "value": true, "estimated": true},
+    {"name": "fill tool", "group": "tools", "value": true, "estimated": true},
+    {"name": "eye dropper tool", "group": "tools", "value": true, "estimated": true}
+  ]
+}
