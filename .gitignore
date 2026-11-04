@@ -1,3 +1,11 @@
 /target/
 *.pdb
 *.exe
+/err.txt
+/out.txt
+/shots/page_locks/
+/shots/_crop_*.png
+/shots/*_test.png
+/shots/phase*.png
+/shots/refactor_check.png
+
